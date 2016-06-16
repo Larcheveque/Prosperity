@@ -1,0 +1,15 @@
+{
+	"category" : "Prosperity-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"game",
+		"selectedTile" ],
+	"name" : "ProsperityResearchComponent",
+	"pools" : [
+		 ],
+	"super" : "ProsperityComponent",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Prosperity-Components",
+	"classinstvars" : [
+		"app" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"game",
+		"researchAndPointsComponent",
+		"playerBoardComponent",
+		"opponentsBoards" ],
+	"name" : "ProsperityGameComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Prosperity-Action",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GuillaumeLarcheveque 5/15/2016 13:00",
+	"instvars" : [
+		 ],
+	"name" : "ProsperityHumanDecisionWaiting",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

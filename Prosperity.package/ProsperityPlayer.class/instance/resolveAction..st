@@ -1,0 +1,3 @@
+actions
+resolveAction: aProsperityPlayerPlayAction
+	self ia resolveAction: aProsperityPlayerPlayAction

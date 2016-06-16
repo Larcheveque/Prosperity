@@ -1,0 +1,14 @@
+{
+	"category" : "Prosperity-Action",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ProsperityPlayerPlayAction",
+	"pools" : [
+		 ],
+	"super" : "ProsperityAction",
+	"type" : "normal" }

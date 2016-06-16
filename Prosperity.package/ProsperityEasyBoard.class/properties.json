@@ -1,0 +1,14 @@
+{
+	"category" : "Prosperity-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ProsperityEasyBoard",
+	"pools" : [
+		 ],
+	"super" : "ProsperityBoard",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Prosperity-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"reference" ],
+	"name" : "ProsperityGameSimulation",
+	"pools" : [
+		 ],
+	"super" : "ProsperityGame",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+resolution
+resolvePlayAction: aProsperityPlayerPlayAction 
+	self play: aProsperityPlayerPlayAction game forPlayer: aProsperityPlayerPlayAction player

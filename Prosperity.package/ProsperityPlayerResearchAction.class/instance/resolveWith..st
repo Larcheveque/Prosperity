@@ -1,0 +1,3 @@
+resolution
+resolveWith: aProsperityFirstIA 
+	aProsperityFirstIA resolveResearchAction: self

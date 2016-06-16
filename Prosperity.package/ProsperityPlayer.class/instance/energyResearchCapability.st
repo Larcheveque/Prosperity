@@ -1,0 +1,3 @@
+research
+energyResearchCapability
+	^ ProsperityRules researchCapabilityForLevel: self energyResearchLevel

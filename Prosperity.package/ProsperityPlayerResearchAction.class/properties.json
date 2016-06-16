@@ -1,0 +1,14 @@
+{
+	"category" : "Prosperity-Action",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"researchPoints" ],
+	"name" : "ProsperityPlayerResearchAction",
+	"pools" : [
+		 ],
+	"super" : "ProsperityAction",
+	"type" : "normal" }

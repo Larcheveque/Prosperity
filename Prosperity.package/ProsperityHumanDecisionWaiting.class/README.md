@@ -1,0 +1,1 @@
+I am an exception sent when a human decision is required. It will make the game stop until the human player validate a choice

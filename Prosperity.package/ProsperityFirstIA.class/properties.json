@@ -1,0 +1,14 @@
+{
+	"category" : "Prosperity-IA",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ProsperityFirstIA",
+	"pools" : [
+		 ],
+	"super" : "ProsperityIA",
+	"type" : "normal" }

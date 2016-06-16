@@ -1,0 +1,14 @@
+{
+	"category" : "Prosperity-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"researchAction" ],
+	"name" : "ProsperityResearchChoosingComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

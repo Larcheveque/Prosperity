@@ -1,0 +1,14 @@
+{
+	"category" : "Prosperity-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gameComponent" ],
+	"name" : "ProsperityComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

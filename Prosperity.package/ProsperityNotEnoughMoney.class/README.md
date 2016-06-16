@@ -1,0 +1,1 @@
+Sent when trying to buy a tile too expansive

@@ -1,0 +1,21 @@
+{
+	"category" : "Prosperity-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"color",
+		"money",
+		"energyResearchLevel",
+		"ecologyResearchLevel",
+		"board",
+		"game",
+		"points",
+		"ia" ],
+	"name" : "ProsperityPlayer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

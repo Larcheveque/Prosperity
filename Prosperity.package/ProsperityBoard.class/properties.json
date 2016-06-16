@@ -1,0 +1,15 @@
+{
+	"category" : "Prosperity-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tiles",
+		"pollutionLevel" ],
+	"name" : "ProsperityBoard",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Prosperity-Components",
+	"classinstvars" : [
+		"app" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tile" ],
+	"name" : "ProsperityTileCustomizationComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

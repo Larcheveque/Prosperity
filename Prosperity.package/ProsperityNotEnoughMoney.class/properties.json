@@ -1,0 +1,14 @@
+{
+	"category" : "Prosperity-Exception",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ProsperityNotEnoughMoney",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

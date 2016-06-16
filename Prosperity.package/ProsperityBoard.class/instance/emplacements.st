@@ -1,0 +1,3 @@
+board
+emplacements
+	^ self subclassResponsibility 

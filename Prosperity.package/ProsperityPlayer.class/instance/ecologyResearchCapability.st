@@ -1,0 +1,3 @@
+research
+ecologyResearchCapability
+	^ ProsperityRules researchCapabilityForLevel: self ecologyResearchLevel

@@ -1,0 +1,3 @@
+testing
+isPlayerResearchAction
+	^ false

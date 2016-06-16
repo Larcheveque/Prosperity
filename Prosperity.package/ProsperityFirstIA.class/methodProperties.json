@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"evaluateCapitalImportance:" : "GuillaumeLarcheveque 5/18/2016 13:39",
+		"evaluateEcologyImportance:" : "GuillaumeLarcheveque 5/18/2016 13:08",
+		"evaluateEnergyImportance:" : "GuillaumeLarcheveque 5/17/2016 15:20",
+		"evaluateExchange:by:forPlayer:" : "GuillaumeLarcheveque 5/17/2016 19:34",
+		"evaluateResearchImportance:" : "GuillaumeLarcheveque 5/17/2016 11:46",
+		"play:forPlayer:" : "GuillaumeLarcheveque 5/17/2016 16:07",
+		"research:" : "GuillaumeLarcheveque 5/15/2016 13:46",
+		"resolveResearchAction:" : "GuillaumeLarcheveque 5/15/2016 22:24" } }

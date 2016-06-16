@@ -1,0 +1,15 @@
+{
+	"category" : "Prosperity-Model",
+	"classinstvars" : [
+		"aspects",
+		"aspectByName" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"aspect" ],
+	"name" : "ProsperityAspect",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

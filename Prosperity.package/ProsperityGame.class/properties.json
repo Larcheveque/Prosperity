@@ -1,0 +1,19 @@
+{
+	"category" : "Prosperity-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"players",
+		"remainingTiles",
+		"availableTiles",
+		"currentPlayer",
+		"remainingActionForCurrentPlayer",
+		"actions" ],
+	"name" : "ProsperityGame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

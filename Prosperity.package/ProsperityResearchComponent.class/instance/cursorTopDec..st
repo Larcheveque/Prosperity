@@ -1,0 +1,3 @@
+rendering
+cursorTopDec: aLevel
+	^ (#(505 475 445 422 399 372 355 340 323 300 285 270 254 238 216 199 184 169 153 137 110 93 76 63 48 30) at: aLevel) asString

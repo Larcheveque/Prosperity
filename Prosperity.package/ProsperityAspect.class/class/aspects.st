@@ -1,0 +1,3 @@
+class initialization
+aspects
+	^ aspects

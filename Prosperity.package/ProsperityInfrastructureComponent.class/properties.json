@@ -1,0 +1,14 @@
+{
+	"category" : "Prosperity-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ProsperityInfrastructureComponent",
+	"pools" : [
+		 ],
+	"super" : "ProsperityPlayerBoardSubComponent",
+	"type" : "normal" }

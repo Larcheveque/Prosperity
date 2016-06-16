@@ -1,0 +1,18 @@
+{
+	"category" : "Prosperity-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"player",
+		"energyLevelComponent",
+		"ecologyLevelComponent",
+		"pollutionLevelComponent",
+		"infrastructureComponent" ],
+	"name" : "ProsperityPlayerBoardComponent",
+	"pools" : [
+		 ],
+	"super" : "ProsperityComponent",
+	"type" : "normal" }

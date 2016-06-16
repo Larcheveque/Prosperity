@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adjustPollution:" : "GuillaumeLarcheveque 5/12/2016 17:15",
+		"capitalLevel" : "GuillaumeLarcheveque 5/12/2016 17:04",
+		"defaultTiles" : "GuillaumeLarcheveque 5/12/2016 12:23",
+		"ecologyLevel" : "GuillaumeLarcheveque 5/13/2016 12:26",
+		"emplacements" : "GuillaumeLarcheveque 5/12/2016 11:46",
+		"energyLevel" : "GuillaumeLarcheveque 5/12/2016 12:43",
+		"increasePollution:" : "GuillaumeLarcheveque 5/13/2016 12:37",
+		"initialize" : "GuillaumeLarcheveque 5/12/2016 13:31",
+		"placeDefaultTiles" : "GuillaumeLarcheveque 5/12/2016 12:24",
+		"placeTile:atPosition:" : "GuillaumeLarcheveque 5/13/2016 10:30",
+		"pointsLevel" : "GuillaumeLarcheveque 5/13/2016 12:26",
+		"pollutionLevel" : "GuillaumeLarcheveque 5/12/2016 13:30",
+		"pollutionLevel:" : "GuillaumeLarcheveque 5/12/2016 13:30",
+		"reducePollution" : "GuillaumeLarcheveque 5/12/2016 13:31",
+		"researchLevel" : "GuillaumeLarcheveque 5/12/2016 17:00",
+		"tile:isValideAt:" : "GuillaumeLarcheveque 5/13/2016 10:30",
+		"tiles" : "GuillaumeLarcheveque 5/12/2016 11:45",
+		"tiles:" : "GuillaumeLarcheveque 5/12/2016 11:45",
+		"tilesAt:" : "GuillaumeLarcheveque 5/12/2016 12:36",
+		"tilesReplaceablesBy:" : "GuillaumeLarcheveque 5/13/2016 16:51" } }
