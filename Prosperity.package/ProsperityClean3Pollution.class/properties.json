@@ -1,0 +1,14 @@
+{
+	"category" : "Prosperity-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ProsperityClean3Pollution",
+	"pools" : [
+		 ],
+	"super" : "ProsperityBuyAction",
+	"type" : "normal" }

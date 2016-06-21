@@ -1,3 +1,3 @@
 as yet unclassified
 tiles
-	^ tiles ifNil: [ tiles := self createAllTiles ]
+	^ tiles ifNil: [ self loadTiles. tiles ]

@@ -1,20 +1,13 @@
 {
 	"category" : "Prosperity-Model",
 	"classinstvars" : [
-		"tiles" ],
+		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"name",
-		"category",
-		"domain",
-		"aspects",
-		"type",
-		"level",
-		"mainAspect",
-		"buyAction" ],
-	"name" : "ProsperityTile",
+		 ],
+	"name" : "ProsperityBuyAction",
 	"pools" : [
 		 ],
 	"super" : "Object",

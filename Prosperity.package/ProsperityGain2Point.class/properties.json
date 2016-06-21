@@ -1,0 +1,14 @@
+{
+	"category" : "Prosperity-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ProsperityGain2Point",
+	"pools" : [
+		 ],
+	"super" : "ProsperityBuyAction",
+	"type" : "normal" }

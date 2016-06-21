@@ -6,6 +6,7 @@
 		"consume" : "GuillaumeLarcheveque 5/12/2016 09:15",
 		"energy" : "GuillaumeLarcheveque 5/12/2016 09:15",
 		"env" : "GuillaumeLarcheveque 5/12/2016 09:16",
+		"fromSton:" : "GuillaumeLarcheveque 6/21/2016 14:32",
 		"initialize" : "GuillaumeLarcheveque 5/11/2016 11:53",
 		"point" : "GuillaumeLarcheveque 5/12/2016 09:17",
 		"pollution" : "GuillaumeLarcheveque 5/12/2016 09:17",
@@ -26,4 +27,5 @@
 		"printOn:" : "GuillaumeLarcheveque 5/11/2016 11:54",
 		"researchFor:inGame:" : "GuillaumeLarcheveque 5/15/2016 13:41",
 		"researchLevel" : "GuillaumeLarcheveque 5/12/2016 17:01",
+		"stonContainSubObjects" : "GuillaumeLarcheveque 6/21/2016 14:23",
 		"stonOn:" : "GuillaumeLarcheveque 5/11/2016 12:43" } }

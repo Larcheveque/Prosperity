@@ -4,5 +4,5 @@ buySpecialTile: aTile
 		ifFalse: [ ProsperityNotEnoughMoney signal ].
 	self money: self money - (aTile priceForPlayer: self).
 	self game removeTile: aTile.
-	aTile executeBuyBlock: self.
+	aTile executeBuyAction: self.
 	self tookAction
